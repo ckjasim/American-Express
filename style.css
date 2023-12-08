@@ -1,0 +1,246 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Helvetica Neue",Helvetica,sans-serif;;
+}
+.help li{
+    padding: 19px 20px 0 0;
+    list-style: none;
+}
+.login{
+    font-size: 15px;
+    width: 83.72px;
+    height: 44px;
+    padding:10.08px 20px;
+}
+
+
+.four-row{
+    margin: 0 0 0 10px;
+}
+.personal{
+   height: 141.5px;
+   width: 296px;
+   padding: 20px;
+}
+.personal img{
+    height: 65px;
+    width: 70px;
+    }
+#fourbox{
+    width:19.875rem;
+}
+@media screen and (max-width: 767px){
+    #fourbox{
+        margin: 20px 0 20px 100px;
+    }
+    .learn-bg .learn .cardlogo{
+        margin: 20px 0 0 0;
+    }
+    
+}
+
+
+#big-box{
+    color: #ffffff;
+    height: 570px;
+   
+    padding: 20px;
+    margin: 0 10px;
+    
+    
+}
+#shopnow-btn{
+    font-size: 16px;
+    width: 180px;
+    height: 50px;
+    padding:6px 12px;
+}
+#terms{
+    font-size: 13px;
+}
+.two-box{
+    width: 350px;
+    padding: 0 10px;
+    margin: 0 0 0 10px;
+}
+@media screen and (max-width: 1200px){
+    .two-box{
+        order: initial;
+        display: flex;
+        justify-content: center;
+        margin: 30px 0 0 0;
+    }
+    #card{
+         margin: 20px 20px 0 0;
+    }
+   
+}
+
+#card{
+    width: 404px;
+    height: 275px;
+    background-image: url(/week2/images/Eligibility-Checker_Promo-Placement_400x130.avif);
+    background-repeat: no-repeat;
+    background-size: 404px 130px;
+    padding: 146px 0 0 20px;
+   
+}
+
+
+#reward{
+    width: 404px;
+    height: 275px;
+    background-image: url(/week2/images/Membership-Rewards_Promo-Placement_400x130.avif);
+    background-repeat: no-repeat;
+    background-size: 404px 130px;
+    padding: 146px 0 0 20px;
+    margin: 20px 0 0 0;
+}
+
+.twotext{
+    background-color: #ecedee;
+}
+
+.learn-bg{
+    background-color: #ecedee;
+    padding: 30px;
+}
+.latest{
+    font-size: 30px;
+    padding: 30px 0 10px 0;
+    font-weight: 300;
+}
+
+.learn img{
+    height: 218px;
+}
+
+
+.block {
+    display: block;
+    width: 100%;
+    border: 1px solid black;
+    background-color: #ffffff;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    color: #006fcf;
+    border-radius: 7px;
+  }
+  .success {
+    border-color: #006fcf;
+    color: #006fcf;
+  }
+  .fillblock {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #006fcf;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 7px;
+    color: #ffffff;
+  }
+.card-body a{
+    padding: 10px 0 0 0 ;
+}
+
+.full-card{
+    display: flex;
+   justify-content: center;
+   
+}
+.cardlogo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 25px 0 0 0;
+}
+.cardlogo img{
+    height: 48px;
+    width: 48px;
+}
+.big-btn{
+    width: 360px;
+    height: 50px;
+    font-size: 100px;
+ 
+}
+
+
+
+.foot-link li{
+text-decoration: none;
+list-style: none;
+padding: 13.25px 0;
+
+}
+.foot-link a{
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+.foot-link h6{
+    font-weight: 600;
+    font-size: 13px;
+    
+    
+}
+.foot-link{
+    padding: 30px 10px 0;
+}
+.link{
+    width: 1220px;  
+}
+
+
+
+.ae-row{
+    margin: 30px 0 30px 0 ;
+    display: flex;
+    justify-content:space-between;
+}
+.heading{
+    margin: 0 0 -10px 0;
+}
+.india{
+    display: flex;
+    
+}
+.ae-img img{
+    height: 15px;
+    width: 235px;
+}
+.india img{
+    height: 13.8px;
+    width: 20px;
+}
+.india{
+    text-decoration: none;
+}
+.rules a{
+    text-decoration: none;
+}
+.rules li{
+    margin: 0 20px 0 0;
+}
+.rules ul{
+    
+    display: flex;
+    justify-content: start;
+    list-style: none;
+    
+}
+.copyright{
+    margin: 30px 0;
+}
+.copyright a{
+   text-decoration: none;
+    color: black;
+    margin: 30px 0;
+
+}
